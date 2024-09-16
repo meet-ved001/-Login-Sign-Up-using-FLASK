@@ -1,0 +1,22 @@
+employess_data = {
+1:{
+    "name":"Joey",
+    "age":42,
+    "position":"manager"
+},
+2:{
+    "name":"abc",
+    "age":43,
+    "position":"Student"
+},
+3:{
+    "name":"def",
+    "age":44,
+    "position":"manager"
+},
+4:{
+    "name":"ghi",
+    "age":45,
+    "position":"Student"
+},
+}

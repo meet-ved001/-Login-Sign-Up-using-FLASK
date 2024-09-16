@@ -1,0 +1,9 @@
+{% extends "layout.html" %}
+<!-- content is just a variable name -->
+{% block content %}
+<h2>Content</h2>
+<div>
+    <p>Getting Started? <a href="{{url_for('signup')}}">Sign Up</a></p>
+    <p>Already Started? <a href="{{url_for('login')}}">Login</a></p>
+</div>
+{% endblock content %}
